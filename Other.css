@@ -1,0 +1,76 @@
+.homepage-nav {
+    margin-left: 100px;
+    font-size: 200%;
+
+}
+
+.contact-nav {
+    margin-left: 100px;
+    font-size: 200%;
+}
+
+img {
+    margin-left: 100px;
+    width: 80vw;
+}
+
+.Toad{
+    width: 100px;
+    
+}
+
+h1 {
+    font-size: %;
+    margin-left: 455px;
+}
+
+body {
+    background-color: #86b1f7
+}
+
+a:visited {
+    color: #cccccc;
+}
+
+a:hover {
+    color: #ffffff;
+}
+
+h2 {}
+
+p {}
+
+/* Sections for the 'Data' tab */
+
+.ValComp-li {
+    float: left;
+    list-style: none;
+}
+
+.ValComp-li ul {
+    list-style: initial;
+}
+
+h3 {
+    float: right;
+}
+
+h4 {
+    font-size: 200%;
+    columns: 3;
+    text-decoration: underline;
+}
+
+li {}
+
+h5 {
+    font-size: 200%;
+    margin-left: 550px;
+    text-decoration: underline;
+}
+
+/* Contact page styling */
+
+.contact-form{
+    
+}
